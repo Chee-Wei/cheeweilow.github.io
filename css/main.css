@@ -95,10 +95,6 @@ h4 {
     letter-spacing: 0.2em;
 }
 
-
-#introvid {
-}
-
 #contact {
     list-style-type: none;
     padding: 0;
@@ -448,4 +444,8 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
+}
+.columnoffset {
+    float: right;
+    width: 80%;
 }
